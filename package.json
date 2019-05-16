@@ -1,0 +1,25 @@
+{
+  "name": "material_site",
+  "version": "1.0.0",
+  "description": "School senior project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryce21/Material_Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryce21/Material_Site/issues"
+  },
+  "homepage": "https://github.com/Bryce21/Material_Site#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
